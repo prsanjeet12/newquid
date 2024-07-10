@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { TableHead, TableRow, TableCell, TableBody, Checkbox, Typography, IconButton, Button } from '@mui/material';
 import { styled } from '@mui/material/styles';
@@ -5,6 +6,7 @@ import Table from '../../../../Components/Table';
 import Image from 'next/image';
 import ActionButtons from '../../../../Components/ActionButton';
 import { BusinessCell, CreditLimitCell, CreatedDate, Row, RowData } from '../../../../types/types';
+
 
 
 

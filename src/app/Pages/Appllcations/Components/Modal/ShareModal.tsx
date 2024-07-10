@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 import { Typography, IconButton } from '@mui/material';
 import Modal from '../../../../../Components/Modal';

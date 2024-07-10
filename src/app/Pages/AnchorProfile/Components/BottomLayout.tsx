@@ -1,3 +1,4 @@
+"use client"
 import React, { useState,useEffect } from 'react';
 import { styled } from '@mui/system';
 import Typography from '@mui/material/Typography';

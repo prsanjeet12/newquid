@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from 'react';
 import { Typography, Box, MenuItem } from '@mui/material';
 import Leads from './Lead/page';

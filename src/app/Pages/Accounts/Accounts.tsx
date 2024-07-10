@@ -1,3 +1,4 @@
+"use client"
 import React, { useState, ReactNode } from 'react';
 import { Box, Tabs, Tab } from '@mui/material';
 import AllAccounts from './AllAccounts/page';
